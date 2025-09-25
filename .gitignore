@@ -1,0 +1,10 @@
+# Python
+.Python
+*.pyc
+app/__pycache__/
+app/*/__pychache__/
+app/*/*/__pycache__/
+app/*/*/*__pychache__
+.env/
+.venv/
+venv/

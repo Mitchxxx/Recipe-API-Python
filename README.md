@@ -1,12 +1,9 @@
 # Recipe-API-Python
 Recipe API built with Python
 
-# Recipe-API-Python
-Recipe API built with Python
-
 ## Prerequisites
 - Docker
-- Docker Compose (v2+)
+- Docker Compose (v3+)
 - Make sure your repository includes:
   - `Dockerfile`
   - `docker-compose.yml`
